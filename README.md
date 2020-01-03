@@ -5,6 +5,7 @@
 This application features the ability to populate a virtual beehive with virtual bees.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704090-797f8a00-2d95-11ea-9f44-141df2a3cf60.png)
 
 ## Application Compiling
 
